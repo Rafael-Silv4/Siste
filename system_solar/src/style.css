@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-image: url(./assets/textures/cubeMap/py.png);
+    
+  }
+  
+
+  @media (forced-colors: active) {
+  .example {
+    forced-color-adjust: none; /* Evita que o navegador altere as cores */
+  }
+}
